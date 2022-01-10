@@ -2,7 +2,7 @@
 
 De Aurélien Daix
 
-Lien GitHub : https://github.com/GacruxM4/terraform_mini-projet.git
+Lien GitHub : <https://github.com/GacruxM4/terraform_mini-projet.git>
 
 ---
 
@@ -37,3 +37,4 @@ Lien GitHub : https://github.com/GacruxM4/terraform_mini-projet.git
 ![instance_aws](captures/instance_aws.JPG)
 ![instance_aws_sg](captures/instance_aws_sg.JPG)
 ![instance_aws_ebs](captures/instance_aws_ebs.JPG)
+![test_nginx](captures/test_nginx.JPG)
